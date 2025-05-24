@@ -1,5 +1,5 @@
 # Tesla-Stock-Price-Prediction
-📈 Tesla Stock Price Forecasting Using LSTM
+Tesla Stock Price Forecasting Using LSTM
 This project demonstrates how to predict Tesla's stock prices using an LSTM (Long Short-Term Memory) neural network model.
 
 Forecast the closing price of Tesla stocks using past values. The dataset includes Tesla’s historical stock prices from 2010 to 2020. The goal is to build a model that learns from past price behavior and generalizes well to unseen future prices.
