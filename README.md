@@ -16,8 +16,6 @@ Optimizer: Adam
 
 Model Evaluation: Root Mean Squared Error (RMSE) and loss curves
 
-Results: 
-
 Training RMSE: ~13.12 USD
 
 Test RMSE: ~29.85 USD
